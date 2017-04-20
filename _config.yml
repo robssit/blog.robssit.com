@@ -1,3 +1,4 @@
+```
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -7,7 +8,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "blog.robssit.com"
+title                    : "Musings from the IT Grindhouse"
 title_separator          : "-"
 name                     : "robss_it"
 description              : "Musings from the IT Grindhouse"
@@ -244,3 +245,4 @@ defaults:
       comments: # true
       share: true
       related: true
+```
