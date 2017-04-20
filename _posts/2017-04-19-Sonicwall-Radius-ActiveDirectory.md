@@ -1,9 +1,9 @@
 ---
 layout: post
-title: SF300-24P 24-Port 10/100 PoE Managed Switch firmware upgrade
+title: Sonicwall Radius integration with Active Directory
 author: robss_it
-categories: switchvox, networking, switch, cisco, firmware, upgrade
-tags: switchvox, networking, switch, cisco, firmware, upgrade
+categories: sonicwall, radius, Active Directory, LDAP, integration
+tags: sonicwall, radius, Active Directory, LDAP, integration
 ---
 
 In working through an issue with a Switchvox phone system dropping calls, I found that a particular switch seemed to be the cause of the issue.

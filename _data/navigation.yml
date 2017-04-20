@@ -1,9 +1,8 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+- title: "Musings from the IT Grindhouse"
   # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #   url: http://blog.robssit.com/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
