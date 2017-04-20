@@ -1,9 +1,9 @@
 # main links
-main:
+main: "blog.robssit.com"
 - title: "Musings from the IT Grindhouse"
 - title: "About"
-url: /about/
+  url: /about/
 - title: "Archive"
-url: /year-archive/
+  url: /year-archive/
 - title: "Sitemap"
-url: /sitemap/
+  url: /sitemap/
