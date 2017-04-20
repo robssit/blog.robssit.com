@@ -1,20 +1,20 @@
 # Welcome to Jekyll!
-#  
+#
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale:"en"
-title:"Musings from the IT Grindhouse"
-title_separator:"-"
-name:"robss_it"
-description:"Musings from the IT Grindhouse"
-url:http://blog.robssit.com # the base hostname for the site
-baseurl: # the subpath of your site, e.g. "/blog"
-repository: "robssit" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+locale                   : "en"
+title                    : "blog.robssit.com"
+title_separator          : "-"
+name                     : "robss_it"
+description              : "Musings from the IT Grindhouse"
+url                      : http://blog.robssit.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "robssit" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -109,9 +109,9 @@ author:
 
 # Reading Files
 include:
-- .htaccess
+  - .htaccess
   - _pages
-exclude: 
+exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
@@ -179,7 +179,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 gems:
-- jekyll-paginate
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -187,7 +187,7 @@ gems:
 
 # mimic GitHub Pages with --safe
 whitelist:
-- jekyll-paginate
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -234,9 +234,9 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-- scope:
-     path: ""
-     type: posts
+  - scope:
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
