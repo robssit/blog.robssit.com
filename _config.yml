@@ -109,9 +109,9 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
+- .htaccess
   - _pages
-exclude:
+    exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
@@ -137,11 +137,11 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-keep_files:
+    keep_files:
   - .git
   - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+    encoding: "utf-8"
+    markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
@@ -179,7 +179,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 gems:
-  - jekyll-paginate
+- jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -187,7 +187,7 @@ gems:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
+- jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -234,11 +234,11 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
+- scope:
+     path: ""
+     type: posts
     values:
-      layout: single
+      layout: default
       author_profile: true
       read_time: true
       comments: # true
