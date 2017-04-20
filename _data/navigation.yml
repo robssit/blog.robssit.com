@@ -1,8 +1,9 @@
 # main links
-main: "Musings from the IT Grindhouse"
+main:
+- title: "Musings from the IT Grindhouse"
 - title: "About"
-  url: /about/
+url: /about/
 - title: "Archive"
-  url: /year-archive/
+url: /year-archive/
 - title: "Sitemap"
-  url: /sitemap/
+url: /sitemap/
