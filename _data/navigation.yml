@@ -1,7 +1,7 @@
---- 
-- 
-  title: "Musings from the IT Grindhouse"
-- 
+# main links
+main:
+- title: "Musings from the IT Grindhouse"
+- url: blog.robssit.com
   title: About
   url: /about/
 - 
