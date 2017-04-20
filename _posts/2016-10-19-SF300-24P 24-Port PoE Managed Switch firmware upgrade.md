@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: default
 title: SF300-24P 24-Port 10/100 PoE Managed Switch firmware upgrade
 author: robss_it
-categories: switchvox, networking, switch, cisco, firmware, upgrade
-tags: switchvox, networking, switch, cisco, firmware, upgrade
+Categories: switchvox, networking, switch, cisco, firmware, upgrade
+Tags: switchvox, networking, switch, cisco, firmware, upgrade
 ---
 
 In working through an issue with a Switchvox phone system dropping calls, I found that a particular switch seemed to be the cause of the issue.
