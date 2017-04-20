@@ -1,24 +1,11 @@
-<<<<<<< HEAD
 --- 
 main: 
-  - 
+- 
     title: blog.robssit.com
     url: "http://blog.robssit.com"
-  - 
+- 
     title: About
     url: /about/
-  - 
+- 
     title: SiteMap
-  - 
     url: /SiteMap/
-=======
-# main links
-main:
-- title: "Musings from the IT Grindhouse"
-- title: "About"
-url: /about/
-- title: "Archive"
-url: /year-archive/
-- title: "Sitemap"
-url: /sitemap/
->>>>>>> parent of b7b32b6... navigation
