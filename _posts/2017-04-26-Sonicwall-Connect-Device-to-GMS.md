@@ -23,4 +23,4 @@ In the "Configure GMS settings" windows complete the required fields.
 
 These steps are depicted in the following screenshot.
 
-![4-26-2017-GMS-How-To-Connect-Device.jpg]({{site.url/assets/images/4-26-2017-GMS-How-To-Connect-Device.jpg}})
+![4-26-2017-GMS-How-To-Connect-Device.jpg]({{site.url}}/assets/images/4-26-2017-GMS-How-To-Connect-Device.jpg)
