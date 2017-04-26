@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: How-To connect SonicWALL device to Global Management System (GMS)
 author: robss_it
 categories: SonicWALL, GMS, integration
