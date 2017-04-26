@@ -6,8 +6,6 @@ categories: SonicWALL, GMS, integration
 tags: SonicWALL, GMS, integration
 ---
 
-<center>
-
 The steps to connect a SonicWALL device to a GMS system are detailed below.
 
 After logging into the device management interface complete the following steps.
@@ -26,5 +24,3 @@ In the "Configure GMS settings" windows complete the required fields.
 These steps are depicted in the following screenshot.
 
 ![4-26-2017-GMS-How-To-Connect-Device.jpg]({{site.url}}/assets/images/4-26-2017-GMS-How-To-Connect-Device.jpg)
-
-</center>
