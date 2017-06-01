@@ -2,8 +2,8 @@
 layout: default
 title: How-To connect SonicWALL device to Global Management System (GMS)
 author: robss_it
-categories: SonicWALL, GMS, integration
-tags: SonicWALL, GMS, integration
+Categories: SonicWALL, GMS, integration
+Tags: SonicWALL, GMS, integration
 ---
 
 The steps to connect a SonicWALL device to a GMS system are outlined below.
