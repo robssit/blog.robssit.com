@@ -6,6 +6,8 @@ Categories: switchvox, networking, switch, cisco, firmware, upgrade
 Tags: switchvox, networking, switch, cisco, firmware, upgrade
 ---
 
+</p align="center">
+
 In working through an issue with a Switchvox phone system dropping calls, I found that a particular switch seemed to be the cause of the issue.
 
 The switch in question is a Cisco [SF300-24P] [1].
@@ -39,7 +41,7 @@ After a series of reboots and configuration backups a second wireshark capture s
 
 ![cisco-spf-300-fcs-no-error.jpg]({{ site.url }}/assets/images/cisco-spf-300-fcs-no-error.jpg)
 
-
+</p>
 
 [1]: http://www.cisco.com/c/en/us/support/switches/sf300-24p-24-port-10-100-poe-managed-switch-gigabit-uplinks/model.html "SF300-24P"
 [2]: http://www.cisco.com/c/dam/en/us/td/docs/switches/lan/csbms/sf30x_sg30x/release_notes/R_1_4_5_02_RN.pdf "release notes"
